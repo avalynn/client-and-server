@@ -40,5 +40,5 @@ int main(int argc, char const *argv[])
     send(sock , hello , strlen(hello) , 0 ); 
     printf("Assalamualaikum\n"); 
    
-   return 0;
-}
+    return 0; 
+} 
